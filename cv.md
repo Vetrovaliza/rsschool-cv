@@ -17,3 +17,8 @@ I was engaged in the purchase of goods.
 I worked in logistics.
 ### frontend developer
 [GITHUB] (https://github.com/Vetrovaliza/rsschool-cv.git)
+## EDUCATION
+### BSEU
+I am studying accounting, analysis and audit in industry. I am finishing my 4th year.
+### ENGLISH
+B1
