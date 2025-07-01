@@ -1,5 +1,5 @@
 # "Vetrova Lizaveta"
-> vetrovaliza21@gmail.com
+> vetrovaliza21@gmail.com;
 >GITHAB @Vetrovaliza
 
 ## SUMMARY            
