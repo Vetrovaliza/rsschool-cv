@@ -1,1 +1,1 @@
-https://Vetrovaliza.github.io/rsschool-cv/cv
+https://Vetrovaliza.github.io/rsschool-cv/
