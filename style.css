@@ -1,41 +1,47 @@
-body {
-  font-family: Arial, sans-serif;
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
-}
+body {background-color: #372727f4;
+font-size: 20px;
+padding: 0px 0px 0px 40px;
+color: rgb(182, 164, 164);}
 
-header, footer {
-  background: #f0f0f0;
-  padding: 20px;
-}
+ul {color: rgb(180, 161, 161);}
+a {color: rgb(182, 164, 164);}
 
-nav ul {
-  list-style: none;
-  display: flex;
-  gap: 15px;
-  padding: 0;
-}
+.header-container {
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    gap: 30px; }
+  .header-text {
+  text-align: left;}
 
-nav ul li a {
-  text-decoration: none;
-  color: #333;
-}
+h1 {background-color: #5f5353f4;
+color: rgb(255, 255, 255);
+border-radius: 10px;
+border: solid white;
+padding: 20px 20px 20px 20px;
+font-size: 40px;
+font-family: 'Courier New', Courier, monospace;}
 
-h1 {
-  font-size: 2em;
-}
+.profile-photo { background-color: #5f5353f4;
+padding: 20px 20px 20px 20px;
+width: 150px; height: auto;
+border: solid white;
+border-radius: 80px 0 80px 0;}
 
-img {
-  max-width: 200px;
-  height: auto; /* сохраняет пропорции */
-  display: block;
-}
+h2 {
+  display: inline-block;
+  padding: 0px 50px 0px 50px;
+  background-color: #897070f4;
+  color: rgb(37, 28, 28);
+  font-size: 30px;
+  border-radius: 10px;
+  border: solid white;
+  font-family: 'Courier New', Courier, monospace;}
 
-footer {
-  text-align: center;
-}
+h3 {color: rgb(190, 175, 175);
+  text-decoration: underline;
+  text-decoration-color: rgb(195, 186, 186);}
 
-footer img {
-  vertical-align: middle;
-}
+footer { display: flex;
+  align-items: center; 
+  justify-content: center;}
