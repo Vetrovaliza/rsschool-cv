@@ -1,1 +1,1 @@
-[[ht(https://Vetrovaliza.github.io/rsschool-cv/)
+https://Vetrovaliza.github.io/rsschool-cv/
