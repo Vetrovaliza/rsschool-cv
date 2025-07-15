@@ -1,1 +1,1 @@
-[https://Vetrovaliza.github.io/rsschool-cv/](http://127.0.0.1:5500/index.html)
+ https://vetrovaliza.github.io/rsschool-cv/
