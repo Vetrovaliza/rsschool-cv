@@ -315,3 +315,85 @@ height: 424px;
   display: flex;
   gap: 60px;
  }
+
+ .Explore{
+  width: 1920px;
+height: 865px;
+background: rgba(3, 3, 3, 1);
+padding-top: 75px;
+padding-bottom: 75px ;
+padding-left: 240px;
+ }
+
+ .pictureexplore{
+  display: flex;
+  gap: 60px;
+  width: 1440px;
+height: 715px;
+background: rgb(0, 0, 0);
+ }
+
+ .textpage3 {
+  font-family: "Forum", sans-serif;
+font-weight: 400;
+font-size: 80px;
+leading-trim: NONE;
+line-height: 90px;
+letter-spacing: 5px;
+text-transform: uppercase;
+color: rgba(255, 255, 255, 1);
+margin-bottom: 25px;
+ }
+
+ .linepage3 {
+  width: 660px;
+height: 3px;
+background: rgb(0, 0, 0);
+margin-bottom: 75px;
+ }
+
+ .textbox3 {
+  font-family: "Roboto", sans-serif;
+font-weight: 300;
+font-size: 22px;
+leading-trim: NONE;
+line-height: 38.5px;
+letter-spacing: 0%;
+color: rgba(255, 255, 255, 1);
+margin-bottom: 25px;
+ }
+
+ .photopage3 {
+  position: relative;
+  display: flex;
+  width: 720px;
+height: 700px;
+ }
+
+ .alltextpage3 {
+  display: flex;
+  flex-direction: column;
+ }
+
+ .photopage3right{
+  position: absolute;
+  width: 720px;
+height: 700px;
+ }
+
+ .photopage3left{
+  position: absolute;
+  width: 720px;
+  height: 700px;
+ }
+
+ .photop3left{
+  width: 440px;
+height: 700px;
+overflow: hidden;   
+  position: relative;
+
+ }
+
+
+ 
