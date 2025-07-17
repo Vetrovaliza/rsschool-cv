@@ -395,5 +395,76 @@ overflow: hidden;
 
  }
 
+ .Video{
+  height: 1396px;
+  width: 1920px;
+  background: rgb(255, 255, 255);
+  padding-left: 240px;
+  padding-top: 75px;
+ }
 
+ .videojorney {
+  width: 1440px;
+height: 1246px;
+background: rgb(255, 255, 255);
+ } 
+
+
+ .h2page4 {
+  font-family: "Forum", sans-serif;
+font-weight: 400;
+font-size: 80px;
+leading-trim: NONE;
+line-height: 90px;
+letter-spacing: 5px;
+text-transform: uppercase;
+color: rgba(157, 134, 101, 1);
+ }
+
+ .textpage4 {
+  font-family: "Roboto", sans-serif;
+font-weight: 300;
+font-size: 22px;
+leading-trim: NONE;
+line-height: 38.5px;
+letter-spacing: 0%;
+vertical-align: middle;
+color: rgba(0, 0, 0, 1);
+ }
+
+ .textboxpage4 {
+  display: flex;
+  gap: 115px;
+  margin-bottom: 75px;
+ }
  
+ .mainboxpage4{
+  display: flex;
+  flex-direction: column;
+  gap: 42px;
+  margin-bottom: 40px;
+ }
+
+ .video4 {
+  width: 1440px;
+height: 735px;
+ }
+ 
+ .videobox {
+  width: 1440px;
+height: 254px;
+display: flex;
+gap: 42px;
+ }
+
+
+ .videomini {
+  width: 452px;
+height: 254px;
+ }
+
+ .Gallery {
+  width: 1920px;
+height: 2200px;
+background: rgba(3, 3, 3, 1);
+ }
